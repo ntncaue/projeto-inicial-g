@@ -10,6 +10,10 @@ nav a {
     font-weight: bold;
 }
 
-.container * {
+#container * {
     padding: 20px;
+}
+
+#conteudo {
+    line-height: 1.5;
 }
