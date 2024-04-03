@@ -31,3 +31,7 @@ button {
     background-color: #0096ff;
     color: #ffffff;
 }
+
+footer{
+    border-top: solid 2px red;
+}
