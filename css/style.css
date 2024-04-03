@@ -1,6 +1,6 @@
 
 .cabecalho {
-    background-color: blue;
+    background-color: #0096ff;
     
 }
 h1, h2 {
@@ -19,10 +19,15 @@ nav a {
 }
 
 #contact form {
-    border: solid 1px gray;
+    border: solid 1px #8d918d;
     padding: 10px;
 }
 
 p {
-    color: green;
+    color: #00a36c;
+}
+
+button {
+    background-color: #0096ff;
+    color: #ffffff;
 }
