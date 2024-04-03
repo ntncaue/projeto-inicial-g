@@ -17,3 +17,8 @@ nav a {
 #conteudo {
     line-height: 1.5;
 }
+
+#contact form {
+    border: solid 1px gray;
+    padding: 10px;
+}
