@@ -48,7 +48,7 @@ a img {
     width: 30px;
 }
 
-#help, #item, #about, footer, #contact {
+#help, #item, #about, #contact {
     border-radius: 5px;
     border: solid 2px grey;
     margin: 15px;
