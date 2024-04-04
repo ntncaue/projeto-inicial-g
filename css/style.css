@@ -1,10 +1,16 @@
 
 .cabecalho {
     background-color: #0096ff;
+    border-radius: 5px;
+    border: solid 2px grey;
     
 }
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    border: hidden 2px;
+    border-radius: 5px;
+    text-align: center;
 }
 nav a {
     font-weight: bold;
@@ -21,6 +27,7 @@ nav a {
 #contact form {
     border: solid 1px #8d918d;
     padding: 10px;
+    border-radius: 5px;
 }
 
 p {
@@ -40,4 +47,13 @@ a img {
     max-width: 100%;
     width: 30px;
 }
+
+#help, #item, #about, footer, #contact {
+    border-radius: 5px;
+    border: solid 2px grey;
+    margin: 15px;
+    background-color: aliceblue;
+}
+
+
 
