@@ -35,3 +35,9 @@ button {
 footer{
     border-top: solid 2px red;
 }
+
+a img {
+    max-width: 100%;
+    width: 30px;
+}
+
